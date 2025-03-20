@@ -1,5 +1,4 @@
-<div align="center">
-    
+~$/rs95767 
 <img src="https://raw.githubusercontent.com/ietf-tools/common/main/assets/logos/wagtail-site.svg" alt="IETF Wagtail Website" height="125" />
     
 [![Release](https://img.shields.io/github/release/ietf-tools/www.svg?style=flat&maxAge=360)](https://github.com/ietf-tools/www/releases)
